@@ -107,3 +107,12 @@
     margin: -900px;
     margin-left: 300px;
   }
+
+.tps {
+    margin-top: -75px;
+    margin-left: 644px;
+  }
+
+  .tps:hover, .dip:hover {
+    color: #000000;
+  }
