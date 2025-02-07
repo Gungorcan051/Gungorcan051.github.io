@@ -104,10 +104,10 @@
   }
 
   .contact, .Travaux {
-    width: 1200px;
+    width: 1600px;
     color: #000000;
-    margin: -900px;
-    margin-left: 300px;
+    margin: -850px;
+    margin-left: 280px;
   }
 
   .tps {
@@ -133,7 +133,7 @@
   }
 
   article {
-    width: 1400px;
+    width: 1600px;
   }
 
   img:hover{
