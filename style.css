@@ -27,6 +27,14 @@
     line-height: 75px;
     margin: 15px;
   }
+
+.lhpes { 
+    color: #000000;
+    text-align: center;
+    font-size: 25px;
+    line-height: 75px;
+    margin: 10px;
+  }
   
   a.lhpe {
     text-decoration: none;
